@@ -1,0 +1,158 @@
+/* body{
+    background-color:rgb(33, 71, 240);
+    width: 100%;
+}
+p{
+    font-size: 20px;
+    margin: 5px;
+}
+section img{
+    height: 300px;
+    width: 350px;
+    border-radius: 5px;
+    margin: 1%;
+}
+.s1{
+    width: 20%;
+    display: inline-block;
+    margin: 3%;
+    box-shadow: 0 8px 16px rgba(0,0,0,0.2);
+    border-radius: 0 6% 0;
+}
+section button{
+    background-color: rgb(129, 230, 188);
+    padding: 10px 15px;
+    border-radius: 5px;
+    color: rgb(1, 1, 48);
+    border-style: none;
+    margin-bottom: 10px;
+    margin-left: 40%;
+    margin-top: 10px;
+}
+
+section button:hover{
+    background-color: rgb(128, 126, 235);
+    color: rgb(33, 80, 121);
+    opacity: 0.8;
+    transition: 0.5s ease-out;
+} */
+.h12{
+    /* padding-left: 300px; */
+    border-radius: 16px 16px 16px 16px;
+}
+/* header{
+    background-image:  url(../Images/WhatsApp\ Image\ 2023-09-14\ at\ 10.55.13.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    width: 100%;
+    height: 200px;
+    text-align: center;
+
+    color: rgb(117, 117, 245);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border-radius: 5px 5px 0px 0px;
+}
+nav{
+    background-color: rgb(1, 9, 129);
+    width: 100%;
+    height: 160px;
+    text-align: center;
+    padding-top: 1px;
+    border-radius: 0px 0px 5px 5px;
+}
+footer{
+    background-color: rgb(243, 94, 231);
+    width: 100%;
+    height: 150px;
+    padding-top: 140px;
+    text-align: center;
+    border-radius: 5px;
+}
+footer p{
+    color: aliceblue;
+    padding-bottom: 100px;
+}
+nav ul{
+    padding-top: 7px;
+    width: 90%;
+    height: 150px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+nav ul li{
+    display: inline-block;
+    padding-top: 40px;
+    block-size: 30px;
+    size: 20px;
+}
+nav ul li a{
+    background-color:   rgb(55, 215, 226);
+    color: rgb(9, 9, 20);
+    padding: 15px 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-decoration: none;
+    border-radius: 8px;
+    margin: 10px;
+}
+ul li a:hover{
+    background-color: rgb(2, 10, 17);
+    color: rgb(235, 229, 229);
+    opacity: 0.4;
+    transition: 0.2s;
+}
+img{
+    height: 300px;
+    width: 300px;
+    border-radius: 0 50% 0;
+    border: 10px solid rgb(114, 250, 232);
+    box-shadow: 0 2px 6px 8px rgba(29, 28, 28, 0.295);
+}
+.video{
+    height: 500px;
+    width: 300px;
+    padding-left: 40%;
+    padding-top: 50px;
+}
+section h1{
+    padding-left: 70px;
+}
+button{
+    text-align: center;
+    padding: 10px 30px;
+    margin-left: 45%;
+    background-color: rgb(38, 35, 238);
+    border: none;    
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+button:hover{
+    background-color: rgb(63, 64, 73);
+    color: rgb(9, 188, 243);
+}
+.v1{
+    margin-left: 10px;
+    padding: 10px 150px;
+    width: 1000px;
+    font-size: 30px;
+    padding-top: 50px;
+}
+section{
+    width: 100%;
+    display: inline-block;
+    margin: 4%;
+    background-color: rgb(25, 134, 138);
+    box-shadow: 6px 4px 6px 6px rgb(82, 94, 202);
+}
+footer{
+    text-align: center;
+    padding-top: 50px;
+}
+div{
+    width: 30%;
+    display: inline-block; 
+}
+p{
+    margin: 15px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+} */
